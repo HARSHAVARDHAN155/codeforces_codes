@@ -1,2 +1,2 @@
 # codeforces_codes
-PROBLEMSET AND CONTEST PROBLEMS of Competative Programming are updated here.
+PROBLEMSET AND CONTEST PROBLEMS of Competitive Programming are updated here.
